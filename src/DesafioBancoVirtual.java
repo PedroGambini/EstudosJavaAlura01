@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class DesafioBnacoVirtual {
+public class DesafioBancoVirtual {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int escolha = 0;
